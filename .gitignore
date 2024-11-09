@@ -1,0 +1,10 @@
+# IDE Environemnt
+.idea
+.vscode
+
+# Mac
+.DS_Store
+**/.DS_Store
+
+# Python backup copy
+**/*.bak
