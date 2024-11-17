@@ -12,9 +12,15 @@ This is a practice ground to learn open-source LLM (like, OpenAI, etc.) integrat
 
 Each directory has its own readme file configure API tokens, setting up environment variables, and creating a LangChain LLM instance for both Hugging Face and OpenAI models.
 
-### 1. Setting up API Tokens
+### Setting up API Tokens
 
 Obtain your API tokens from [Hugging Face](https://huggingface.co/) and [OpenAI](https://platform.openai.com/).
+
+
+## Directory Lists
+
+1. **01_ask_currency_openai**: The 1st notebook where it shows how to connect and setup langchain with huggingface and openai
+2. **02_ask_currency_gemini**: This is same as directory 1, this time with gemini.
 
 
 ### Notes
